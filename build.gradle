@@ -33,7 +33,6 @@ dependencies {
 	implementation("org.webjars:bootstrap:${boostrapVersion}")
 	implementation("org.webjars:font-awesome:${fontawesomeVersion}")
 	implementation("org.webjars.npm:mustache:${mustacheVersion}")
-	implementation("org.webjars.npm:mustache:${mustacheVersion}")
 
 	developmentOnly("org.springframework.boot:spring-boot-devtools")
 
